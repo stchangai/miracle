@@ -1,0 +1,29 @@
+{
+  "name": "miracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "react-admin": "^2.8.5",
+    "yarn": "^1.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stchangai/miracle.git"
+  },
+  "keywords": [
+    "miracle",
+    "plateforme",
+    "adherents"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stchangai/miracle/issues"
+  },
+  "homepage": "https://github.com/stchangai/miracle#readme"
+}
